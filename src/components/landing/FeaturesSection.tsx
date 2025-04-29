@@ -1,5 +1,5 @@
 
-import { FileText, Box, Users, ChartBar, Settings, Cube } from 'lucide-react';
+import { FileText, Box, Users, ChartBar, Settings, BarChart3 } from 'lucide-react';
 
 const features = [
   {
@@ -30,7 +30,7 @@ const features = [
   {
     name: '3D Interactive Dashboard',
     description: 'Visualize your data with interactive 3D charts and graphs. Make informed business decisions.',
-    icon: Cube,
+    icon: BarChart3,
   }
 ];
 
